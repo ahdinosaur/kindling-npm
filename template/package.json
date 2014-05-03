@@ -1,0 +1,19 @@
+{
+  "name": "__project__",
+  "version": "0.1.0",
+  "description": "__description__",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/__author__/__project__.git"
+  },
+  "author": "__author__",
+  "license": "__license__",
+  "bugs": {
+    "url": "https://github.com/__author__/__project__/issues"
+  },
+  "homepage": "https://github.com/__author__/__project__"
+}
